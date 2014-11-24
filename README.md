@@ -35,6 +35,18 @@ I'm curious how much music TBDBITL has memorized this year...
 - [x] Swearingen Warmup
 - [x] Talkin' Out the Side of Your Neck
 
+### Horn Cheers
+- [x] Across the Field
+- [x] Buckeye Battle Cry
+- [x] Carry On Wayward Son
+- [x] Fly Me to the Moon
+- [x] Hang On Sloopy
+- [x] My Town
+- [x] Some Nights
+- [x] Somewhere Over the rainbow
+- [x] Superman Theme
+- [x] You Can Call Me Al
+
 ### Fight Songs
 - [x] Navy
 - [x] Virginia Tech
