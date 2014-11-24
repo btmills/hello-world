@@ -34,3 +34,14 @@ I'm curious how much music TBDBITL has memorized this year...
 - [x] O Fortuna
 - [x] Swearingen Warmup
 - [x] Talkin' Out the Side of Your Neck
+
+### Fight Songs
+- [x] Navy
+- [x] Virginia Tech
+- [x] Kent State
+- [x] Cincinnati
+- [x] Rutgers
+- [x] Illinois
+- [x] Michigan State
+- [x] Indiana
+- [ ] Michigan
