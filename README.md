@@ -45,3 +45,59 @@ I'm curious how much music TBDBITL has memorized this year...
 - [x] Michigan State
 - [x] Indiana
 - [ ] Michigan
+
+### Navy
+
+- [x] American Salute
+
+### TV Land (Virginia Tech)
+
+- [x] Dragnet/The Simpsons/The Addams Family/Batman
+- [x] M*A*S*H/I Dream of Jeannie/The Office/Hawaii Five-O
+- [x] The Brady Bunch/Game of Thrones/William Tell
+
+### Patriotic (Kent State)
+
+- [x] Victory at Sea Fanfare
+- [x] Ths is My Country
+- [x] Military Medley
+- [x] America the Beautiful
+
+### The Wizard of Oz (Cincinnati)
+
+- [x] Fanfare and Tornado
+- [x] We're Off to See the Wizard
+- [x] If I Only Had a Brain
+- [x] Merry Old Land of Oz
+- [x] Wicked Witch/Soldiers
+- [x] Ding Dong the Witch is Dead
+- [x] Over the Rainbow
+
+### Classic Rock (Rutgers)
+
+- [x] Jump/Rock You Like a Hurricane/Jumpin' Jack Flash
+- [x] Frankenstein
+- [x] Pinball Wizard
+- [x] Rock and Roll All Nite
+
+### Space (Illinois)
+
+- [x] Also Sprach Zarathustra
+- [x] Star Trek: Into Darkness
+- [x] Apollo 13
+- [x] Independence Day
+
+### Vegas (Indiana)
+
+- [x] Viva, Las Vegas!
+- [x] Waking up in Vegas
+- [x] That Old Black Magic
+- [x] Ain't That a Kick in the Head
+- [x] Luck Be a Lady
+
+### West Side Story (Michigan)
+
+- [ ] Fanfare/Tonight/America
+- [ ] Gee, Officer Krupke
+- [ ] Mambo
+- [ ] Somewhere
